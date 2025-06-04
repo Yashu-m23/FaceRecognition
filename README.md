@@ -31,4 +31,4 @@ pip install -r requirements.txt
 ├── requirements.txt
 ├── README.md
 
-> Place clear, front-facing images of known individuals inside the `known_faces/` folder. The filename (without extension) is used as the name label.
+Place clear, front-facing images of known individuals inside the `known_faces/` folder. The filename (without extension) is used as the name label.
