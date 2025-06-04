@@ -24,11 +24,11 @@ pip install -r requirements.txt
 
 ## Folder Structure
 
-├── known_faces/
-│ ├── alice.jpg
-│ ├── bob.png
-├── face_recognition_realtime.py
-├── requirements.txt
-├── README.md
+- known_faces/
+    - alice.jpg
+    - bob.png
+- face_recognition_realtime.py
+- requirements.txt
+- README.md
 
 Place clear, front-facing images of known individuals inside the `known_faces/` folder. The filename (without extension) is used as the name label.
